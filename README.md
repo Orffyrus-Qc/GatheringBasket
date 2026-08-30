@@ -4,7 +4,9 @@ A virtual extra inventory for farming and gathering in Rust. There is no physica
 
 Inspired by the native inventory instead of a second backpack item: **no physical item, one inventory button, twelve virtual slots**.
 
-![Inventory with Gathering Basket](Images/inventory.png)
+![Gathering Basket icon](Images/icon.png)
+
+![Inventory with Gathering Basket](Images/umod.png)
 
 ![Routing panel and basket loot](Images/routing.png)
 
