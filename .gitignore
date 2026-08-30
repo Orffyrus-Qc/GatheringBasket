@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+oxide/
+oxide/data/
+oxide/config/
+oxide/logs/
+*.dll
+*.pdb
+.DS_Store
+Thumbs.db
+local-server/
+icons/basket-umod-512.png
